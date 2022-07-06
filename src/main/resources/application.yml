@@ -1,0 +1,6 @@
+  swagger:
+     app:
+      basePackage: com.sadra.show
+      title: Simulator  Api Documentation
+      description: Documentation automatically gener
+
